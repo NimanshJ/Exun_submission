@@ -22,7 +22,7 @@ music = True
 
 start_button = pygame.Rect(531, 368, 237, 96)
 finish = [[1240, 540], [1240, 600], [1240, 600]]
-level = 3
+level = 0
 score_font = pygame.font.Font(None, 80)
 start_img = pygame.image.load("start.png")
 finish_img = pygame.image.load("finish.png")
